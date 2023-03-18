@@ -22,10 +22,10 @@
 
 </br>
 </br>
-<details>
-<summary>:bulb: Github Stats</summary> <img src="https://github-readme-stats.vercel.app/api?username=Aliimranatabey&theme=merko">
+<details> 
+<summary> Github Stats</summary> <img src="https://github-readme-stats.vercel.app/api?username=Aliimranatabey&theme=merko">
 </details>
 </br>
 <details>
-<summary>:bulb: Most Used Languages</summary> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliimranatabey&layout=compact">
+<summary> Most Used Languages</summary> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliimranatabey&layout=compact">
 </details>
